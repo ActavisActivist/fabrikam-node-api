@@ -17,7 +17,7 @@ var myObj = {
       {"name":"jovial_booth", "age":41, "city":"Dallas"},
       {"name":"elated_yonath", "age":39, "city":"Seattle"},
       {"name":"suspicious_goldberg", "age":22, "city":"Hyderabad"},
-      {"name":"reverent_raman", "age":24, "city":"New York"},
+      {"name":"reverent_raman", "age":24, "city":"Toronto"},
       {"name":"agitated_borg", "age":19, "city":"Paris"},
       {"name":"determined_kilby", "age":21, "city":"London"}
     ]
